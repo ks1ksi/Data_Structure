@@ -1,3 +1,0 @@
-1. font_baemin 폴더의 폰트 설치
-2. cmd 열고 pip install pyqt5 (오류뜰시 환경변수 설정)
-3. 02_project.pyw 실행
